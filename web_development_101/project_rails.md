@@ -205,7 +205,8 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 * [huseins ghafari's solution](https://github.com/hosghf/rails_prj/tree/master/blogger) | [View in Browser](https://mighty-crag-59722.herokuapp.com/)
 * [Alan Cruse's Solution](https://github.com/ADECruse/project-rails)
 * [NIÑO MOLLANEDA's Solution](https://github.com/ninoM/blogger) | [View in Browser](https://stark-spire-65556.herokuapp.com/)
-* [Dustin Seright's Solution](https://github.com/dseright/rails_project) | [View in Browser](https://boiling-beyond-55901.herokuapp.com/) 
+* [Dustin Seright's Solution](https://github.com/dseright/rails_project) | [View in Browser](https://boiling-beyond-55901.herokuapp.com/)
+* [Dan Sack's Solution](https://github.com/DanPete/blogger) | [View in Browser](https://pacific-ridge-35157.herokuapp.com/) 
 
 
 ## Additional Resources
